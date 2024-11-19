@@ -1,0 +1,13 @@
+[build-system]
+requires = [ "poetry-core",]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+name = "smart-store-monitoring"
+version = "0.1.0"
+description = "AI-powered solution by Smartprints for effortless store surveillance, real-time insights, and performance optimization."
+authors = [ "abdelmalek0 <djamaa.abdelmalek98@gmail.com>",]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.11"
