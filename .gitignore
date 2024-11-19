@@ -2,3 +2,7 @@
 __pycache__
 .vscode
 .idea
+
+# folders
+outputs
+models

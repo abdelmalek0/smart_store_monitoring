@@ -11,3 +11,4 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "~3.11"
+ultralytics = "^8.3.33"
